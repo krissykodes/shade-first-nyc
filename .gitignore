@@ -1,0 +1,6 @@
+# Raw pulls and per-ZIP outputs are rebuilt by the scripts; docs/ (the live site) is committed.
+data/*
+!data/tree_sizes.json
+__pycache__/
+.DS_Store
+docs/page.html
