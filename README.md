@@ -1,4 +1,4 @@
-# Shade First NYC — NYC GeoAI Hackathon 2026
+# Shade Queue NYC — NYC GeoAI Hackathon 2026
 
 **Live map:** https://krissykodes.github.io/shade-first-nyc/
 

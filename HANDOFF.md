@@ -1,4 +1,4 @@
-# Shade First NYC — handoff (NYC GeoAI Hackathon 2026, Sat Nov 14 2026)
+# Shade Queue NYC — handoff (NYC GeoAI Hackathon 2026, Sat Nov 14 2026)
 
 Kristin's civic hackathon project. Goal: show NYC Parks which empty street-tree pits to plant first for maximum pedestrian shade, a site-level ranking that sits inside Parks' existing HVI-ordered program. The deliverable is a working map, and it is built.
 
